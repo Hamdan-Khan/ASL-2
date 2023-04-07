@@ -98,7 +98,6 @@ function App() {
             zindex: 9,
             width: 800,
             height: 570,
-            border: "1px solid black",
           }}
         />
 
@@ -114,7 +113,6 @@ function App() {
             zindex: 8,
             width: 800,
             height: 570,
-            border: "1px solid black",
           }}
         />
       </header>
