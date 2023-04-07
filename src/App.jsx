@@ -63,7 +63,7 @@ function App() {
           boxes[0],
           classes[0],
           scores[0],
-          0.8,
+          0.6,
           videoWidth,
           videoHeight,
           ctx
