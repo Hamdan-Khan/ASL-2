@@ -63,7 +63,7 @@ function App() {
           boxes[0],
           classes[0],
           scores[0],
-          0.6,
+          0.65,
           videoWidth,
           videoHeight,
           ctx
@@ -98,6 +98,7 @@ function App() {
             zindex: 9,
             width: 640,
             height: 480,
+            border: "1px solid black",
           }}
         />
 
@@ -113,6 +114,7 @@ function App() {
             zindex: 8,
             width: 640,
             height: 480,
+            border: "1px solid black",
           }}
         />
       </header>
